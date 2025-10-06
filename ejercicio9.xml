@@ -2,13 +2,13 @@
 <!DOCTYPE catalogo SYSTEM "catalogo.dtd">
 
 <catalogo>
-    <libro id=”1”>
+    <libro id='1'>
 	<libro:titulo>Harry Potter y la piedra filosofal</libro:titulo>
 	<libro:autor>J.K. Rowling</libro:autor>
 	<libro:ano>1997</libro:ano>
     </libro>
 
-    <libro id=”2”>
+    <libro id='2'>
 	<dc:titulo>Don Quijote de la mancha</dc:titulo>
 	<dc:creador>Miguel de Cervantes</dc:creador>
 	<dc:ano>1605</dc:ano>

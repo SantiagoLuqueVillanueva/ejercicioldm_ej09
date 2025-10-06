@@ -1,0 +1,7 @@
+<!ELEMENT catalogo (libro+)>
+<!ELEMENT libro (titulo,autor?,ano,creador?)>
+<!ATTLIST libro id NMTOKEN #REQUIRED>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT ano (#PCDATA)>
+<!ELEMENT creador (#PCDATA)>
